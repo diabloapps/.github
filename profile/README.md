@@ -4,8 +4,8 @@
   </a>
 </p>
 
-We make **Diablo Browser**, a desktop browser for people who run many accounts at once.
-Every tab keeps its own logins, proxy and timezone, so one session never leaks into another.
+We make **Diablo Browser**, built for people who run a lot of accounts and can't afford
+to have them cross paths.
 
 Our code is private. To try Diablo or get help:
 
